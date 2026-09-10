@@ -3,7 +3,7 @@
 
   THE Admin-System for Gorilla Tag Mods!
 
-  <a href="https://github.com/PixelCattt/Console/compare/1962a6d...master">
+  <a href="https://github.com/PixelCattt/Console/compare/1962a6d...3.1.0">
     <img src="https://img.shields.io/badge/view-changes-lime?style=for-the-badge"</img>
   </a>
 
