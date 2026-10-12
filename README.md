@@ -6,14 +6,6 @@
   <a href="https://github.com/PixelCattt/Console/compare/1962a6d...master">
     <img src="https://img.shields.io/badge/view-changes-lime?style=for-the-badge"</img>
   </a>
-
-  <a href="https://github.com/PixelCattt/Console/releases">
-    <img src="https://img.shields.io/github/downloads/PixelCattt/Console/total?style=for-the-badge&label=Downloads%20Total&color=lime"</img>
-  </a>
-
-  <a href="https://github.com/PixelCattt/Console/releases/tag/v3.1.0">
-    <img src="https://img.shields.io/github/downloads/PixelCattt/Console/v3.1.0/Console.dll?style=for-the-badge&label=Downloads%20v3.1.0&color=lime"</img>
-  </a>
 </div>
 
 ---
